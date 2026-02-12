@@ -37,7 +37,14 @@ This just shows the log distribution of the Airbnb Listing. This is not normally
 
 
 <img width="2760" height="1638" alt="101" src="https://github.com/user-attachments/assets/d056a5b2-5007-43af-9ca7-067a41440a60" />
-According to the dataset that we have Paris top the airbnb Market
+
+The chart illustrates the total number of Airbnb listings across major global cities. Paris clearly leads the ranking with the highest number of listings, significantly outperforming other cities. 
+
+This reinforces Paris’s position as one of Airbnb’s most active and competitive markets worldwide.
+
+New York and Sydney follow, though with noticeably fewer listings than Paris. Mid-ranked cities such as Rome, Rio de Janeiro, and Istanbul show strong but comparatively moderate market presence. Meanwhile, cities like Mexico City, Bangkok, and Cape Town maintain substantial activity, though at lower levels. Hong Kong records the smallest number of listings among the cities shown.
+
+Overall, the distribution highlights Paris as a dominant Airbnb market, which strengthens the relevance of focusing on Paris when analyzing the relationship between Airbnb growth and property price dynamics.
 
 
 <img width="2906" height="1638" alt="102" src="https://github.com/user-attachments/assets/18c8eae4-acf2-4362-8ac2-1ae1ca87a22a" />
